@@ -2,6 +2,7 @@
 <html>
   <head>
     <title>Interveiw of a bandaid box survivor</title>
+    <link rel="stylesheet" type="text/css" href="/assets/lmao.css">
   </head>
   <body>
     <h1>Projects</h1>
